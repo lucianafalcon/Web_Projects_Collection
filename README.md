@@ -15,7 +15,7 @@ Here you'll find some of my personal projects demonstrating my skills in **HTML,
   - Persist cart data in **localStorage**.
   - Clear the cart completely with a button.
 - **Technologies:** HTML, CSS, JavaScript.
-- **Live Demo:** [View Project](https://lucianafalcon.github.io/Web_Projects_Collection/ecommerce.html)
+- **Live Demo:** [View Project](https://lucianafalcon.github.io/Web_Projects_Collection/ecommerce-js/index.html)
 
 ## 🍞🥩🥑 Macronutrients Counter
 
@@ -25,7 +25,7 @@ Here you'll find some of my personal projects demonstrating my skills in **HTML,
   - Track and update your macronutrients in real time.
   - Persist data using **localStorage**.
 - **Technologies:** HTML, CSS, JavaScript.
-- **Live Demo:** [View Project](https://lucianafalcon.github.io/Web_Projects_Collection/macros.html)
+- **Live Demo:** [View Project](https://lucianafalcon.github.io/Web_Projects_Collection/macronutrientes/index.html)
 
 ---
 
