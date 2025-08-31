@@ -1,13 +1,13 @@
 # 🌐 Web Projects Collection
 
 Welcome to my **Web Projects Collection**!  
-Here you'll find some of my personal projects demonstrating my skills in **HTML, CSS, JavaScript, and React**.
+Here you'll find some of my personal projects built with **HTML, CSS, JavaScript, and React**.
 
 ---
 
 ## 🛒 Ecommerce Cart
 
-**A dynamic **shopping cart** web.**
+**A dynamic shopping cart web.**
 
 - **Features:**
   - Display products from a simulated database.
@@ -29,12 +29,3 @@ Here you'll find some of my personal projects demonstrating my skills in **HTML,
 
 ---
 
-### How to Download
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Owner/Web_Projects_Collection.git
-   ```
-2. Open the project folder in VS Code or your preferred IDE.
-
-3. Open index.html in a browser to see the projects.
