@@ -17,7 +17,7 @@ Here you'll find some of my personal projects demonstrating my skills in **HTML,
 - **Technologies:** HTML, CSS, JavaScript.
 - **Live Demo:** [View Project](https://lucianafalcon.github.io/Web_Projects_Collection/ecommerce-js/index.html)
 
-## 🍞🥩🥑 Macronutrients Counter
+## 🍞🥩🥑 Macronutrients 
 
 **Track your daily intake of proteins, carbs, and fats to reach your nutrition goals.**
 
@@ -29,7 +29,7 @@ Here you'll find some of my personal projects demonstrating my skills in **HTML,
 
 ---
 
-### How to Run Locally
+### How to Download
 
 1. Clone this repository:
    ```bash
